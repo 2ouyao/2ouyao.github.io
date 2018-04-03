@@ -4,7 +4,7 @@ title:      Hello Blog
 subtitle:   碎碎念
 date:       2018-04-01
 author:     ARYAO
-header-img: img/post-bg-universe.jpg
+header-img: img/post/post-bg-universe.jpg
 catalog: true
 tags:
     - 生活
